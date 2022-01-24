@@ -7,12 +7,10 @@
 
 - 📫 How to reach me **smurf#0130**
 
-- 📄 Know about my experiences [https://discord.gg/eabkSMKUa8](https://discord.gg/eabkSMKUa8)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucpxwclmgvdpeh9fcco8vrjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucpxwclmgvdpeh9fcco8vrjq" height="30" width="40" /></a>
-<a href="https://discord.gg/smurf#0130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="smurf#0130" height="30" width="40" /></a>
+<a href="https://discord.gg/smurf#0130" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/eabkSMKUa8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
