@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Smurf</h1>
-<h3 align="center">A FullStack Developer</h3>
+<h3 align="center">FullStack developer and technology enthusiast</h3>
 
 - 🔭 I’m currently working on **FiveM Projects**
 
 - 🌱 I’m currently learning **new things**
-
-- 📫 How to reach me **smurf#0130**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
