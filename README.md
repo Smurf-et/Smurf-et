@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Smurf</h1>
 <h3 align="center">FullStack developer and technology enthusiast</h3>
 
-- 🔭 I’m currently working on **FiveM Projects**
+- 🔭 I’m currently working on **FiveM Projects** and Company WebSites 
 
 - 🌱 I’m currently learning **new things**
 
